@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+switch 1,2,3,4 to test out combinations, lights up clock stuff yay
 
 ## How to test
 
-Explain how to use your project
+use switches!
 
 ## External hardware
 
