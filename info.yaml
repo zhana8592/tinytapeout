@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     445163803460843521       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "tiny tapeour"      # Project title
+  title:        "tiny tapeout"      # Project title
   author:       "alex and sofia"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "simple logic gate test"      # One line description of what your project does
